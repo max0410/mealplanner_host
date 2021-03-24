@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mealplanner-300217",
+  "private_key_id": "d3c06c0f4ddce14b17bed53b41bb73d6921a29a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYXkweELMhB0G3\nnBJVBKkgg4dZsxvOQgO49pLvxFfHUqO5QeZXksn5yLBZu5MGDMOJtnPHd63FNq3J\nlJD/hHK1C8fQ6oNGLZgrb14KxZ5VtqKadIBuve7ZSizQemLNS5MJsxNV4tRdjebl\nYxMc2mNYQ/mVI9FuhBQKK77ETPmZqjFI7FHHKSmZEIxn68NSInEh9TwwfDD46Q+B\nT9R0l/YqJ9kC3dkFEzHBzfB+L6iJ1sCLgfW/aB/27WK0Ea5xFDY6MTLpHVdEzLS6\nMAEBcF6NC20/+vMxDwpxG1FGgciwF9/m884rKnjzk0ALxOCRgqxojcqONa1ImppP\nO46/+wI/AgMBAAECggEANKZxmElRBYL6C19nmJebPiWzbHDonb6zoDEkHUMmZwLl\ng0GVdw7ppiYfP56kzq6RcHPc5ZdqShidnnVP+VV2Ajc9JsnCKvQSWNNvS2i+ODZK\niBI8ZHZEZkyl7g8x9qnivFP+qwIY0jEjFAORVY6Q6RwVYiTGpEFwjO8LK0Jd5HWy\njv52sIv7w/7NHQAn6S/5FpPqbvql7CXf0uloK/MeY0tDhPeOVXnly5amEbsdkBjH\nxzh9aQfic1736hOtK37MTXjpTL3GU2mW7/vD1xnd8+wcZSOpMOAz+sbYbq1nEjJv\nwbYgleyen1NLHGdbJyp8Cb/jOYRC5MPKNlx0nd5pKQKBgQDzxNOLD9zbl0SxVAcP\n7YrFIqT9pvimf+O9sh/tomqsj1PwRrMZhigknA/B8sllzltayHMXQPoONon9jWFk\n+SdElywYMYy7dmZcM6dVgpdRErG9rg5MTjw4vSOAMmDsX/xoexWWHm6XNsL9L4OJ\nygxWOnZz3Twst2HsH0EqH/UjCQKBgQDjOYQFbPSSZElSXDr8PAVtdpvcN1rdcbpk\n6Ew9xcmgihk0FzFEw7lnc7QfTfBXTvftmYJsE/76JFduaazKpD1Oi5qK169haWG1\ngF3LyaA7vLHsGcLgpqbaa4BE4+il7tHn5mp/nJpKczSRPAB+SM/+3aT2uNEK+yRb\nrJu9JHDlBwKBgBZtz8EFzp5txqZCQvwWMSR+UYv9Jve64Kt9ji6BOStzbJe5CZWZ\noGvt6A1CV4GEgSdTNjO3iMpx/jRUI9f0jMZk2mvHc1l0RWrKXeUiROXywGPhdfNT\nZ3sY/AE5oW1eT40VdiD/39EN+tbs3j95VbVBX9C9VGIQ5XOiVI6ZriZxAoGAY2DJ\nW/IeOVSBOPM7nQvHN+vTGQpgxE80PWPXzICPwZYEleK62p9bnGJfWf2laxoPlyw3\nfXt1XgO89X5kYzBX29101tqkSs9jO5WL8FAbs2TA0EkoEUbx3L99lyOyobgEuA7v\nbyaX2I3wZMDAWnsP9SENQBbu3oWejjW824lvkssCgYEAqtbhdJDInvwN4j/Zh/lg\nBvnCmE2tnpzXgRQyTDzHWICC8rMcRMFR7WbmgM0Q7rxpfypaCaPmuwzFJUaA+aRi\nsR3rrVW0TkdbYRrHFUP6rotUKG2epkt48eGCT1ih6/APLH49dbYnSrXicbGrAo7f\nJN9e13Sl8Cnn3w6t8xjty5Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-nylyb@mealplanner-300217.iam.gserviceaccount.com",
+  "client_id": "102803212013638584731",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nylyb%40mealplanner-300217.iam.gserviceaccount.com"
+}
